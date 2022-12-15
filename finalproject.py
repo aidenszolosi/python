@@ -1,15 +1,9 @@
 #Aiden Szolosi
 #Final Project
+#FinalProject.py
 #12/14/22
 #This program is an evenly divisible calculator that allows the user to enter a range of values and determine if each value in the range is evenly divisible by 3, by 5, or by both 3 and 5
 #This program will iterate through every number in the range, printing the active number as well as what it is divisible by if applicable. Rather than showing both 3 and 5, the program shortens this to "Both"
-
-
-
-
-
-
-
 
 #Starting out with needed inputs
 StartVal = int(input('Please enter the starting value: '))
